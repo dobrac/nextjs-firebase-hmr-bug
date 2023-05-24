@@ -1,3 +1,10 @@
+## How To Run
+1) yarn install
+2) firebase experiments:enable webframeworks 
+3) yarn devFirebaseEmulators
+
+## General Info
+
 This is a [Next.js](https://nextjs.org/) template to use when reporting a [bug in the Next.js repository](https://github.com/vercel/next.js/issues).
 
 ## Getting Started
